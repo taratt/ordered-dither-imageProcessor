@@ -12,8 +12,7 @@ First the user needs to provide the path to an arbitrary image
 <p align="center">
   <img src="./img/exampleInput1.png" alt="Size Limit CLI" width="738">
 </p>
-The program will then display and save the result of the conversion to the user. Next the user needs to provide the size of the Bayer matrix
-
+The program will then display and save the result of the conversion to the user. Next the user needs to provide the size of the Bayer matrix   
 <p align="center">
   <img src="./img/exampleInput2.png" alt="Size Limit CLI" width="738">
 </p>
@@ -25,27 +24,27 @@ The original image
 <p align="center">
   <img src="./img/original.jpeg" alt="Size Limit CLI" width="738">
 </p>
-8-bit grayscale image
+8-bit grayscale image  
 
 <p align="center">
   <img src="./img/gray.jpeg" alt="Size Limit CLI" width="738">
 </p>
-Ordered dithered image (implemented with 16*16 Bayer matrix)
+Ordered dithered image (implemented with 16*16 Bayer matrix)  
 
 <p align="center">
   <img src="./img/output16.png" alt="Size Limit CLI" width="738">
 </p>
-Ordered dithered image (implemented with 8*8 Bayer matrix)
+Ordered dithered image (implemented with 8*8 Bayer matrix)  
 
 <p align="center">
   <img src="./img/output8.png" alt="Size Limit CLI" width="738">
 </p>
-Ordered dithered image (implemented with 4*4 Bayer matrix)
+Ordered dithered image (implemented with 4*4 Bayer matrix)  
 
 <p align="center">
   <img src="./img/output4.png" alt="Size Limit CLI" width="738">
 </p>
-Ordered dithered image (implemented with 2*2 Bayer matrix)
+Ordered dithered image (implemented with 2*2 Bayer matrix)  
 
 <p align="center">
   <img src="./img/output2.png" alt="Size Limit CLI" width="738">
