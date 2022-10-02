@@ -1,5 +1,5 @@
 # ordered-dither-imageProcessor!
-A program for converting an RGB-coloured image to an 8-bit grayscale image and then performing an ordered dither algorithm on the result.
+This project is an implementation of a program to convert an RGB-coloured image to an 8-bit grayscale image and then performe an ordered dither algorithm on the result.
 ## Description
 This program uses the formula below (luminosity method) to convert the RGB-coloured image (which its path is provided by the user) to an 8-bit  grayscale image:
 ```
